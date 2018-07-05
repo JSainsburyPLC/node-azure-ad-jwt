@@ -1,3 +1,6 @@
+# Modified the issuer in this lib to validate id_token.
+
+
 # azure-ad-jwt
 This component makes it super simple to validate a JWT token issued by the Azure Active Directory. Currently the version 
 is not usinge caching this means the certificates will be downloaded from Mirosoft with every verification request. 
