@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:JSainsburyPLC/node-azure-ad-jwt.git"
+    "url": "git+https://github.com/dei79/node-azure-ad-jwt.git"
   },
   "keywords": [
     "azure",
